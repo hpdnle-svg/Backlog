@@ -1,0 +1,17 @@
+BACKLOG REGIONAL SP - MODELO 05 AJUSTE 05
+
+ALTERAÇÕES
+1. BASES OFENSORAS
+- Na visão Bases, primeiro é obrigatório escolher o Supervisor.
+- Depois, a lista de DS mostra SOMENTE as bases vinculadas àquele Supervisor.
+- Bases de outros supervisores são removidas da lista.
+- Ao trocar o Supervisor, a seleção anterior de Base é limpa.
+
+2. INSERIR EXCEL
+- Botão movido para o lado direito do cabeçalho.
+- Continua substituindo completamente a base anterior.
+
+3. LOGO iMile
+- Cabeçalho usa exatamente a imagem enviada pelo usuário.
+- A mesma imagem é incorporada nas imagens PNG geradas pelo painel.
+- O logo fica com o fundo azul original.
