@@ -1,16 +1,14 @@
-BACKLOG REGIONAL SP - ANÁLISE 03 FUNCIONAL
+BACKLOG REGIONAL SP - ANÁLISE 05
 
-CORREÇÃO CRÍTICA
-- Corrigido erro de JavaScript que interrompia toda a interface.
-- Abas voltam a responder.
-- Botão Inserir Excel volta a responder.
-- Gerador de imagem volta a responder.
+ALTERAÇÕES
+- Limite de criticidade alterado de mais de 5 dias para mais de 3 dias.
+- Rankings, Bases Ofensoras, filtros e gerador de imagem agora usam >3 dias.
+- Textos +5 foram atualizados para +3.
+- Fundo geral alterado para padrão Azul iMile.
+- Cabeçalho, abas, botões, painéis, tabelas e gráficos receberam paleta azul iMile.
+- Cards de atenção continuam preservando verde/amarelo/vermelho para leitura operacional.
 
-MANTIDO
-- Dashboard com letras maiores/negrito.
-- Top 10 DSs +5 dias.
-- Distribuição do Backlog por último.
-- Bases Ofensoras organizadas por Supervisor → Base.
-- Somente pedidos +5 dias nessa aba.
-- Gerador: AWB | Motivo do insucesso | Status atual.
-- Novo Excel substitui totalmente a base anterior.
+BASES OFENSORAS
+- Filtro Supervisor.
+- Filtro Base / DS dependente do Supervisor.
+- Gerador segue os filtros e mostra AWB, Motivo do insucesso e Status atual.
