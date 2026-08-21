@@ -1,17 +1,16 @@
-BACKLOG REGIONAL SP - MODELO 05 AJUSTE 05
+BACKLOG REGIONAL SP - ANÁLISE 03 FUNCIONAL
 
-ALTERAÇÕES
-1. BASES OFENSORAS
-- Na visão Bases, primeiro é obrigatório escolher o Supervisor.
-- Depois, a lista de DS mostra SOMENTE as bases vinculadas àquele Supervisor.
-- Bases de outros supervisores são removidas da lista.
-- Ao trocar o Supervisor, a seleção anterior de Base é limpa.
+CORREÇÃO CRÍTICA
+- Corrigido erro de JavaScript que interrompia toda a interface.
+- Abas voltam a responder.
+- Botão Inserir Excel volta a responder.
+- Gerador de imagem volta a responder.
 
-2. INSERIR EXCEL
-- Botão movido para o lado direito do cabeçalho.
-- Continua substituindo completamente a base anterior.
-
-3. LOGO iMile
-- Cabeçalho usa exatamente a imagem enviada pelo usuário.
-- A mesma imagem é incorporada nas imagens PNG geradas pelo painel.
-- O logo fica com o fundo azul original.
+MANTIDO
+- Dashboard com letras maiores/negrito.
+- Top 10 DSs +5 dias.
+- Distribuição do Backlog por último.
+- Bases Ofensoras organizadas por Supervisor → Base.
+- Somente pedidos +5 dias nessa aba.
+- Gerador: AWB | Motivo do insucesso | Status atual.
+- Novo Excel substitui totalmente a base anterior.
